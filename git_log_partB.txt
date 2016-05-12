@@ -1,0 +1,98 @@
+commit 6c171ef21a159e406ba2fda8fd95b95abc14213b
+Author: murali <muraligogulapati@gmail.com>
+Date:   Wed May 11 18:58:14 2016 -0700
+
+    Re-adding file2.txt
+
+diff --git a/File2.txt b/File2.txt
+new file mode 100644
+index 0000000..2fcd56b
+--- /dev/null
++++ b/File2.txt
+@@ -0,0 +1,2 @@
++Expected graduation year = 2017
++First job title = software engineer
+
+commit 496ae54d35ab2409661bce0b089910451a27c032
+Author: murali <muraligogulapati@gmail.com>
+Date:   Wed May 11 18:54:49 2016 -0700
+
+    Deleting file2.txt
+
+diff --git a/File1.txt b/File1.txt
+index 6540d81..61dc74f 100644
+--- a/File1.txt
++++ b/File1.txt
+@@ -1,3 +1,4 @@
+ MuraliKrishna Gogula-Software Engineering
+ Favorite restaurant = panda express
+ Favorite movie = Bahubali
++Favorite color = Black
+diff --git a/File2.txt b/File2.txt
+deleted file mode 100644
+index 2fcd56b..0000000
+--- a/File2.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-Expected graduation year = 2017
+-First job title = software engineer
+
+commit 51c69811fac03e89f39ff1fee1449216ed0a2a01
+Author: murali <muraligogulapati@gmail.com>
+Date:   Wed May 11 18:50:48 2016 -0700
+
+    Created new file with graduation year and job title
+
+diff --git a/File2.txt b/File2.txt
+new file mode 100644
+index 0000000..2fcd56b
+--- /dev/null
++++ b/File2.txt
+@@ -0,0 +1,2 @@
++Expected graduation year = 2017
++First job title = software engineer
+
+commit 022ccc5e3a820ac582d11bd1fe06fbdcf647c311
+Author: murali <muraligogulapati@gmail.com>
+Date:   Wed May 11 18:36:28 2016 -0700
+
+    added favorite restaurant and movie
+
+diff --git a/File1.txt b/File1.txt
+index 10c7562..6540d81 100644
+--- a/File1.txt
++++ b/File1.txt
+@@ -1 +1,3 @@
+ MuraliKrishna Gogula-Software Engineering
++Favorite restaurant = panda express
++Favorite movie = Bahubali
+
+commit 7e34c8f2a235643608c2b123afa075ecd5023983
+Author: murali <muraligogulapati@gmail.com>
+Date:   Wed May 11 18:33:49 2016 -0700
+
+    Now has my major
+
+diff --git a/File1.txt b/File1.txt
+index c894d20..10c7562 100644
+--- a/File1.txt
++++ b/File1.txt
+@@ -1 +1 @@
+-MuraliKrishna Gogula-90584
+\ No newline at end of file
++MuraliKrishna Gogula-Software Engineering
+
+commit 81b8e7240a8c22ce411af75f568bd3cd108784f1
+Author: murali <muraligogulapati@gmail.com>
+Date:   Wed May 11 18:29:29 2016 -0700
+
+    First commit
+
+diff --git a/File1.txt b/File1.txt
+new file mode 100644
+index 0000000..c894d20
+--- /dev/null
++++ b/File1.txt
+@@ -0,0 +1 @@
++MuraliKrishna Gogula-90584
+\ No newline at end of file
